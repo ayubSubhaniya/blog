@@ -1,1 +1,2 @@
-# ayub.github.io
+# Personal Blog
+URL https://ayubsubhaniya.github.io/blog/
